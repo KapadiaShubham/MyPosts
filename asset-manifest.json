@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/NewMyPosts/static/css/main.e3d8227d.chunk.css",
-    "main.js": "/NewMyPosts/static/js/main.38d9ab8d.chunk.js",
-    "main.js.map": "/NewMyPosts/static/js/main.38d9ab8d.chunk.js.map",
-    "runtime-main.js": "/NewMyPosts/static/js/runtime-main.8edd8236.js",
-    "runtime-main.js.map": "/NewMyPosts/static/js/runtime-main.8edd8236.js.map",
-    "static/js/2.9eab9718.chunk.js": "/NewMyPosts/static/js/2.9eab9718.chunk.js",
-    "static/js/2.9eab9718.chunk.js.map": "/NewMyPosts/static/js/2.9eab9718.chunk.js.map",
-    "index.html": "/NewMyPosts/index.html",
-    "static/css/main.e3d8227d.chunk.css.map": "/NewMyPosts/static/css/main.e3d8227d.chunk.css.map",
-    "static/js/2.9eab9718.chunk.js.LICENSE.txt": "/NewMyPosts/static/js/2.9eab9718.chunk.js.LICENSE.txt"
+    "main.css": "/MyPosts/static/css/main.e3d8227d.chunk.css",
+    "main.js": "/MyPosts/static/js/main.38d9ab8d.chunk.js",
+    "main.js.map": "/MyPosts/static/js/main.38d9ab8d.chunk.js.map",
+    "runtime-main.js": "/MyPosts/static/js/runtime-main.600354f1.js",
+    "runtime-main.js.map": "/MyPosts/static/js/runtime-main.600354f1.js.map",
+    "static/js/2.9eab9718.chunk.js": "/MyPosts/static/js/2.9eab9718.chunk.js",
+    "static/js/2.9eab9718.chunk.js.map": "/MyPosts/static/js/2.9eab9718.chunk.js.map",
+    "index.html": "/MyPosts/index.html",
+    "static/css/main.e3d8227d.chunk.css.map": "/MyPosts/static/css/main.e3d8227d.chunk.css.map",
+    "static/js/2.9eab9718.chunk.js.LICENSE.txt": "/MyPosts/static/js/2.9eab9718.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8edd8236.js",
+    "static/js/runtime-main.600354f1.js",
     "static/js/2.9eab9718.chunk.js",
     "static/css/main.e3d8227d.chunk.css",
     "static/js/main.38d9ab8d.chunk.js"
